@@ -1,0 +1,5 @@
+{
+  "subscriptions": [
+    "https://raw.githubusercontent.com/nonuseraccount/telegram-gate-enricher/refs/heads/main/output/all_valid_proxies.json"
+  ]
+}

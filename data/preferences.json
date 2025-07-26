@@ -1,0 +1,16 @@
+{
+  "telegram": {},
+  "paths": {
+    "subscriptions": "data/subscription_urls.json",
+    "archive": "output/archive_proxies.json"
+  },
+  "posting": {
+    "delay_seconds": 60,
+    "proxies_per_post": 9
+  },
+  "runtime": {
+    "max_execution_seconds": 900,
+    "request_timeout": 5
+  }
+}
+
